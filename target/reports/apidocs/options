@@ -1,0 +1,24 @@
+-classpath
+'C:/Users/windows/.m2/repository/com/h2database/h2/2.1.214/h2-2.1.214.jar;C:/Users/windows/.m2/repository/com/formdev/flatlaf/3.5.1/flatlaf-3.5.1.jar;C:/Users/windows/.m2/repository/com/formdev/flatlaf-intellij-themes/3.5.1/flatlaf-intellij-themes-3.5.1.jar;C:/Users/windows/.m2/repository/javazoom/jlayer/1.0.1/jlayer-1.0.1.jar;C:/Users/windows/.m2/repository/org/jaudiotagger/2.0.3/jaudiotagger-2.0.3.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'C:/Users/windows/Documents/NetBeansProjects/ReproductorMusica/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/windows/Documents/NetBeansProjects/ReproductorMusica/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'ReproductorMusica 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'ReproductorMusica 1.0-SNAPSHOT API'

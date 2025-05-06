@@ -3,11 +3,16 @@ package modelo;
 
 
 public class Cancion {
+    
     private String nombre;
     private String artista;
-    private long duracion;
+    private String duracion;
 
-    public Cancion(String nombre, String artista, long duracion) {
+    public Cancion() {
+    }
+
+    
+    public Cancion(String nombre, String artista, String duracion) {
         this.nombre = nombre;
         this.artista = artista;
         this.duracion = duracion;
@@ -29,11 +34,11 @@ public class Cancion {
         this.artista = artista;
     }
 
-    public long getDuracion() {
+    public String getDuracion() {
         return duracion;
     }
 
-    public void setDuracion(long duracion) {
+    public void setDuracion(String duracion) {
         this.duracion = duracion;
     }
     
